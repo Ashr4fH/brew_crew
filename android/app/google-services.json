@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99090281891",
+    "firebase_url": "https://ashraf-brew-crew.firebaseio.com",
+    "project_id": "ashraf-brew-crew",
+    "storage_bucket": "ashraf-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99090281891:android:3550a4a9083ee51c36d616",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99090281891-upcg27pt6j875qloiq4shts7241fu2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_ya6mZWE_69yvdt2EWWwNpEhnbRDMMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99090281891-upcg27pt6j875qloiq4shts7241fu2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
